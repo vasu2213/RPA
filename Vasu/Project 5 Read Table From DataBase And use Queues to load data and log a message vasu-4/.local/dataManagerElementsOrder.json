@@ -1,0 +1,29 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "StrDbConn&Sequence_2",
+        "StrDbProviderName&Sequence_2",
+        "StrDbRunQuery&Sequence_2",
+        "DbConnection&Sequence_2",
+        "DbDtList&Sequence_2",
+        "QueueItemsDt&Sequence_2",
+        "TransactionItems&Sequence_2",
+        "IenQueueitems&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
